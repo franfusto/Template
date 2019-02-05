@@ -1,0 +1,8 @@
+/home/paco/Desktop/Proyecto_HORIZONT-E/KREEMECO/KREEMECO_SOURCES/SOURCES/Template/NuevoModulo/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/paco/Desktop/Proyecto_HORIZONT-E/KREEMECO/KREEMECO_SOURCES/SOURCES/Template/NuevoModulo/obj/Debug/NuevoModulo.gtk-gui.gui.stetic
+/home/paco/Desktop/Proyecto_HORIZONT-E/KREEMECO/KREEMECO_SOURCES/SOURCES/Template/NuevoModulo/bin/Debug/NuevoModulo.dll.mdb
+/home/paco/Desktop/Proyecto_HORIZONT-E/KREEMECO/KREEMECO_SOURCES/SOURCES/Template/NuevoModulo/bin/Debug/NuevoModulo.dll
+/home/paco/Desktop/Proyecto_HORIZONT-E/KREEMECO/KREEMECO_SOURCES/SOURCES/Template/NuevoModulo/obj/Debug/NuevoModulo.dll
+/home/paco/Desktop/Proyecto_HORIZONT-E/KREEMECO/KREEMECO_SOURCES/SOURCES/Template/NuevoModulo/obj/Debug/NuevoModulo.dll.mdb
+/home/paco/Desktop/Proyecto_HORIZONT-E/KREEMECO/KREEMECO_SOURCES/SOURCES/Template/NuevoModulo/bin/Debug/NGettext.dll
+/home/paco/Desktop/Proyecto_HORIZONT-E/KREEMECO/KREEMECO_SOURCES/SOURCES/Template/NuevoModulo/bin/Debug/horizonte.dll
